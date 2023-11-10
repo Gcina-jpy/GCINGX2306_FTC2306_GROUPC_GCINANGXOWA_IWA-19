@@ -2,7 +2,7 @@
 
 # a social media web specifically targeted at book enthusiasts.
 
-this ptoject is a web page  built along with a freelancer developer.This code creates a dynamic book list web page with filtering features.whereby users can do the following :
+this project is a web page  built along with a freelancer developer.This code creates a dynamic book list web page with filtering features.whereby users can do the following :
 
 * view a list of book previews, by title and author, so that they can discover new books to read.
 * web page has an image associated with all book previews so that users can recognize a book by the cover even if they forgot the name.
